@@ -1,9 +1,10 @@
 # Smile-O-Meter
 Smile measuring device with bargraph LED display for Raspberry Pi
+```
 :) = 9
 :| = 5
 :( = 1
-
+```
 ## The Problem
 Lots of video calls lately, and everyone looking at eachothers faces.  But for some people (e.g. me), the thinking/concentrating face can look quite grumpy.  RBF is another acronymn sometimes used here.  Overall, I want to retrain myself to be cheerful on calls.
 
