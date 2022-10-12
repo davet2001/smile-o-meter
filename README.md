@@ -1,5 +1,7 @@
 # Smile-O-Meter
 Smile measuring device with bargraph LED display for Raspberry Pi
+
+![](https://mediapipe.dev/images/mobile/face_mesh_android_gpu.gif)
 ```
 :) = 9
 :| = 5
